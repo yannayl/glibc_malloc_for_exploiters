@@ -1,0 +1,96 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "reveal-code-focus@^1.0.0",
+        "scope": null,
+        "escapedName": "reveal-code-focus",
+        "name": "reveal-code-focus",
+        "rawSpec": "^1.0.0",
+        "spec": ">=1.0.0 <2.0.0",
+        "type": "range"
+      },
+      "/home/ubuntu/projects/reveal.js"
+    ]
+  ],
+  "_from": "reveal-code-focus@>=1.0.0 <2.0.0",
+  "_id": "reveal-code-focus@1.0.0",
+  "_inCache": true,
+  "_location": "/reveal-code-focus",
+  "_nodeVersion": "6.2.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/reveal-code-focus-1.0.0.tgz_1469951722183_0.9398887008428574"
+  },
+  "_npmUser": {
+    "name": "d10",
+    "email": "demoneaux@gmail.com"
+  },
+  "_npmVersion": "3.10.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "reveal-code-focus@^1.0.0",
+    "scope": null,
+    "escapedName": "reveal-code-focus",
+    "name": "reveal-code-focus",
+    "rawSpec": "^1.0.0",
+    "spec": ">=1.0.0 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/reveal-code-focus/-/reveal-code-focus-1.0.0.tgz",
+  "_shasum": "817b924c7c2241cfd5a2d70730f0ccaaf9bde056",
+  "_shrinkwrap": null,
+  "_spec": "reveal-code-focus@^1.0.0",
+  "_where": "/home/ubuntu/projects/reveal.js",
+  "author": {
+    "name": "Benjamin Tan",
+    "url": "https://demoneaux.github.io/"
+  },
+  "bugs": {
+    "url": "https://github.com/demoneaux/reveal-code-focus/issues"
+  },
+  "dependencies": {},
+  "description": "A Reveal.js plugin that allows focusing on specific lines of code blocks.",
+  "devDependencies": {
+    "@alrra/travis-scripts": "^2.0.0",
+    "reveal.js": "^3.2.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "817b924c7c2241cfd5a2d70730f0ccaaf9bde056",
+    "tarball": "https://registry.npmjs.org/reveal-code-focus/-/reveal-code-focus-1.0.0.tgz"
+  },
+  "files": [
+    "reveal-code-focus.js"
+  ],
+  "gitHead": "3c65fce1656c25d6c0678b230ad06b216d8bb976",
+  "homepage": "https://demoneaux.github.io/reveal-code-focus/",
+  "keywords": [
+    "Reveal.js",
+    "code",
+    "focus"
+  ],
+  "license": "MIT",
+  "main": "reveal-code-focus.js",
+  "maintainers": [
+    {
+      "name": "d10",
+      "email": "demoneaux@gmail.com"
+    }
+  ],
+  "name": "reveal-code-focus",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demoneaux/reveal-code-focus.git"
+  },
+  "scripts": {
+    "test": "true"
+  },
+  "version": "1.0.0"
+}
